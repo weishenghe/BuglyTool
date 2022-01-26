@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>app_name</key>
+		<string>app_name</string>
+		<key>app_id</key>
+		<string>app_id</string>
+		<key>app_key</key>
+		<string>app_key</string>
+		<key>app_bundleId</key>
+		<string>app_bundleId</string>
+		<key>app_productVersion</key>
+		<string>app_productVersion</string>
+		<key>dsym_path</key>
+		<string>dsym_path</string>
+	</dict>
+</array>
+</plist>
